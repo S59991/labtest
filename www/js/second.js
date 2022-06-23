@@ -1,0 +1,5 @@
+$(function(){
+        
+crossroads.addRoute('',function(){});
+
+})
